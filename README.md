@@ -27,11 +27,13 @@ The analysis helped me uncover critical business insights and performance indica
 
 Below is a snapshot of the final interactive dashboard, demonstrating the project's visual output.
 
-![Sales Dashboard](image_296bdc.png)
+![Sales Dashboard](Sales-Dashboard.jpg)
 
 ## Files Included
 
-* **Sales Data**: The CSV files containing the data used for the analysis.
-* **Dashboard Image**: The screenshot of the final dashboard.
+* **Lookup Tables.xlsx**: This file contains the dimension tables, providing descriptive data about products and other entities.
+* **clean_data.xlsx**: The cleaned and prepared dataset used for the analysis, which has been organized and optimized for a star schema model.
+* **Sales-Dashboard.jpg**: A visual representation of the final interactive dashboard, showcasing key insights.
+* **Facts Data**: The main sales data (Facts) is too large for GitHub and can be found at this Google Drive link: [https://drive.google.com/file/d/1HOrKCQa-3Y-0GjX5f5QEpXb-0hJnYnnU/view?usp=drivesdk](https://drive.google.com/file/d/1HOrKCQa-3Y-0GjX5f5QEpXb-0hJnYnnU/view?usp=drivesdk).
 
 This project demonstrates strong skills in the end-to-end data analysis process, from data cleaning and modeling to visualization and strategic insight generation.
