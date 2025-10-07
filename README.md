@@ -27,7 +27,7 @@ The analysis helped me uncover critical business insights and performance indica
 
 Below is a snapshot of the final interactive dashboard, demonstrating the project's visual output.
 
-![Sales Dashboard](Sales-Dashboard.jpg)
+![Sales Dashboard](Sales-Dashboard)
 
 ## Files Included
 
