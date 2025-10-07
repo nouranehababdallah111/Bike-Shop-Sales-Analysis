@@ -1,33 +1,37 @@
-# Bike Shop Sales and Performance Dashboard
+# Comprehensive Sales Analysis & Dashboard
 
 ## Project Overview
 
-This project provides a comprehensive analysis of sales performance for a bike shop. Using **Microsoft Excel**, a dynamic and interactive dashboard was created to track key business metrics, including sales trends, performance by region, and product-specific data. The primary goal was to transform raw sales data into actionable business intelligence.
+This project showcases the power of **Microsoft Excel** as a robust Business Intelligence tool. I created an interactive dashboard that provides a comprehensive view of sales performance by cleaning, modeling, and visualizing a large dataset. The primary objective was to turn raw data into a dynamic and actionable tool for data-driven decision-making.
 
-## Tools and Technologies
+## Technical Methodology
 
-* **Microsoft Excel**: Used for data manipulation, analysis, and dashboard creation.
-* **PivotTables**: Utilized to aggregate sales data by month, region, and product category.
-* **Data Visualization**: Employed various charts and graphs to illustrate sales trends and key performance indicators (KPIs) over time.
+I followed a structured data analysis workflow to ensure the integrity and effectiveness of the final dashboard:
 
-## Key Insights
+* **Data Cleaning & Transformation**: Utilized **Power Query** to clean and prepare the raw data, handling inconsistencies and optimizing it for analysis.
+* **Data Modeling**: Built a relational **Data Model** to link multiple tables (Facts & Dimensions) and ensure data accuracy.
+* **Star Schema**: Implemented a **Star Schema** to design a structured and efficient model, which simplifies data querying and enhances performance.
+* **Visualization**: Created an interactive dashboard using a combination of **PivotTables**, **Pivot Charts**, and **Slicers** to allow for dynamic filtering and exploration of key insights.
 
-The analysis and dashboard highlight several critical business insights:
+## Key Insights from the Dashboard
 
-* **Regional Performance**: The dashboard provides a clear breakdown of sales performance across different regions, identifying top-performing areas such as Cairo, Giza, and the Delta.
-* **Sales Trends**: Monthly sales data is visualized to identify seasonal patterns and understand overall business growth.
-* **Product & Category Analysis**: The dashboard shows which products and categories are driving the most sales, helping to inform inventory and marketing strategies.
+The analysis helped me uncover critical business insights and performance indicators:
+
+* **Total Sales Exceeded $62M**: The dashboard highlights the impressive overall sales performance.
+* **Product Performance**: Only three product categories account for the majority of total sales, revealing a concentration of revenue drivers.
+* **Sales Channel Analysis**: There is a balanced performance across the three main sales channels, while the "Door-to-Door" channel is identified as an area for improvement.
+* **Geographical Dominance**: Four governorates—**Cairo**, **Giza**, **Delta**, and **Alexandria**—dominate the sales landscape, while other regions are relatively close in performance.
+* **Seasonal Trends**: The dashboard clearly visualizes sales peaks in certain months, providing a key opportunity for future promotional and marketing campaigns.
 
 ## Dashboard Visualization
 
-Below is a snapshot of the Excel dashboard created for this project, showcasing the key visualizations and metrics.
+Below is a snapshot of the final interactive dashboard, demonstrating the project's visual output.
 
-![Bike Shop Sales Dashboard](image_296bdc.png)
+![Sales Dashboard](image_296bdc.png)
 
 ## Files Included
 
-* `ExcelPro2.xlsx - Sheet2.csv`: This file contains the primary sales data used for analysis.
-* `ExcelPro2.xlsx - Sheet3.csv`: This file provides additional details about the products, including their price and commission points.
-* `image_296bdc.png`: A screenshot of the final dashboard visualization.
+* **Sales Data**: The CSV files containing the data used for the analysis.
+* **Dashboard Image**: The screenshot of the final dashboard.
 
-This project demonstrates strong skills in data analysis, pivot tables, and dashboard creation—all essential for making data-driven business decisions.
+This project demonstrates strong skills in the end-to-end data analysis process, from data cleaning and modeling to visualization and strategic insight generation.
