@@ -27,8 +27,7 @@ The analysis helped me uncover critical business insights and performance indica
 
 Below is a snapshot of the final interactive dashboard, demonstrating the project's visual output.
 
-![Sales Dashboard](Sales-Dashboard)
-
+![Sales Dashboard](Sales-Dashboard.jpg)
 ## Files Included
 
 * **Lookup Tables.xlsx**: This file contains the dimension tables, providing descriptive data about products and other entities.
